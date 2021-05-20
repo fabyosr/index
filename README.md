@@ -7,3 +7,5 @@ Clicando nos cards abaixo você pode navegar pelos meu projetos pessoais em Data
 
 <BR>
 <a href="https://github.com/fabyosr/sas_library"><img src="https://gh-card.dev/repos/fabyosr/sas_library.svg"></a> | <a href="https://github.com/fabyosr/MachineLearning"><img src="https://gh-card.dev/repos/fabyosr/MachineLearning.svg"></a>
+<BR>
+<a href="https://github.com/fabyosr/SQL"><img src="https://gh-card.dev/repos/fabyosr/SQL.svg"></a> | <a href="https://github.com/fabyosr/Webdev"><img src="https://gh-card.dev/repos/fabyosr/Webdev.svg"></a>
